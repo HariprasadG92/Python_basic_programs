@@ -1,3 +1,4 @@
+print("With The Love Calculator you can calculate the probability of a successful relationship between two people. \n The Love Calculator is an affective way to get an impression of what the chances are on a relationship between two people.")
 name1 = input("Enter your name: ")
 name2 = input("Enter thier name: ")
 combine_name = name1 + name2
