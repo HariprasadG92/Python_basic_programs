@@ -1,4 +1,4 @@
-#You are going to write a program that will mark a spot with an X
+# Program that will mark a spot with an X 
 row1 = ["⬜️","️⬜️","️⬜️"]
 row2 = ["⬜️","⬜️","️⬜️"]
 row3 = ["⬜️️","⬜️️","⬜️️"]
